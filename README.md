@@ -4,7 +4,7 @@ Este proyecto se generó con [Angular CLI] (https://github.com/angular/angular-c
 
 ## Importante instalar
 
-Para el funcionamiento de esta aplicacion se instalo OpenLayers por consola: 
+Para el funcionamiento de esta aplicacion se instalo Leaflet por consola: 
 
 `npm i leaflet @types/leaflet`
 
